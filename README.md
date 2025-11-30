@@ -1,3 +1,14 @@
+# Hi there, I'm Isidora 👋
+
+Full-stack developer passionate about building innovative solutions with modern technologies.
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,html,css,git,github,docker,postgres,mongodb,aws,figma&perline=7&theme=dark" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
