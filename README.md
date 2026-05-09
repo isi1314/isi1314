@@ -20,10 +20,6 @@ I build AI agents and ship small SaaS products. Currently working on a portfolio
 
 ![Isidora's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=isi1314&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isi1314&layout=compact&theme=radical&count_private=true&hide=html,css)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isi1314&theme=radical)
