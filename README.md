@@ -18,9 +18,23 @@ I build AI agents and ship small SaaS products. Currently working on a portfolio
 
 ## 📊 GitHub Stats
 
-![Isidora's GitHub stats](https://github-readme-stats.vercel.app/api?username=isi1314&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Isidora's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=isi1314&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isi1314&layout=compact&theme=radical&count_private=true&hide=html,css)
+## 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isi1314&layout=compact&theme=radical&count_private=true&hide=html,css)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=isi1314&theme=radical)
+
+## 📈 Activity Graph
+
+![Isidora's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isi1314&theme=react-dark&bg_color=20232a&hide_border=true)
+
+## 🏅 Profile Trophy
+
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=isi1314&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📞 Let's Connect
 
