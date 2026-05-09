@@ -1,11 +1,11 @@
 # Hi, I'm Isidora 👋
 
-I build AI agents and ship small SaaS products. Currently working on a portfolio of independent web and mobile apps — most of it lives in private repos, so the public side of GitHub only tells part of the story.
+I build AI agents and ship small SaaS products. Currently working on a portfolio of independent web and mobile apps. Most of it lives in private repos, so the public side of GitHub only tells part of the story.
 
 - 🛠️ Mostly **TypeScript**, **Python**, and **React Native (Expo)** these days
-- 🤖 Lots of **LLM / agent** work — RAG, tool-using agents, automation
-- 📱 Web + mobile micro-SaaS — auth, payments, infra, the full loop
-- 🎓 ML/NLP background ([BU](https://www.bu.edu/) — multilingual RAG, LLM merging, deep learning)
+- 🤖 Lots of **LLM / agent** work: RAG, tool-using agents, automation
+- 📱 Web + mobile micro-SaaS: auth, payments, infra, the full loop
+- 🎓 ML/NLP background ([BU](https://www.bu.edu/)): multilingual RAG, LLM merging, deep learning
 - 🌍 Based in the US
 
 ## 🛠️ Stack
